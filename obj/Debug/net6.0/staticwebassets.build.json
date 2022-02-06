@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "16xHSoPn/hhujSJH+WqmY9YSvjAdaRkURrOzcjz+bwI=",
+  "Source": "ASP.NET-TodoAPI",
+  "BasePath": "_content/ASP.NET-TodoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
